@@ -1,0 +1,15 @@
+﻿Build started 08.11.2019 15:11:29.
+     1>Project "P:\ScRiB\Plot2DViewer - Second Method\Plot2DViewer\Plot2DViewer.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "P:\ScRiB\Plot2DViewer - Second Method\Release\".
+       InitializeBuildStatus:
+         Creating "Release\Plot2DViewer.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Plot2DViewer.cpp
+         Plot2DViewer.cpp
+     1>c1xx : fatal error C1083: Cannot open compiler intermediate file: 'C:\DOCUME~1\SAPRON~1\LOCALS~1\Temp\3\_CL_b7546b41ex': No space left on device
+     1>Done Building Project "P:\ScRiB\Plot2DViewer - Second Method\Plot2DViewer\Plot2DViewer.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.28
